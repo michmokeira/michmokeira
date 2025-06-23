@@ -65,7 +65,7 @@ A comprehensive web application empowering users to improve their financial know
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [michelle mokeira]https://www.linkedin.com/in/michelle-mokeira/ 
+- 💼 **LinkedIn:** [Michelle Mokeira](https://www.linkedin.com/in/michelle-mokeira/) 
 - 📧 **Email:** [michellemokeira@gmail.com]
 - 🌐 **Portfolio:** Coming soon to show my technical and design work. Stay tuned!
 ---
