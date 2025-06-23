@@ -1,8 +1,8 @@
 # Heeyyyy 🤪 I'm Michelle Mokeira
 
-### 🎓 Computer Science Graduate | 💻 Full-Stack Developer | 🚀 Financial Wellness Enthusiast
+### 🎓 Computer Science Graduate | 💻 Full-Stack Developer | 🎨 UI/UX Designer| 🚀 Financial Wellness Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate Computer Science graduate with expertise in full-stack web development, specialising in creating meaningful applications that solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate Computer Science graduate with expertise in full-stack web development, specialising in creating meaningful applications that solve real-world problems. I am also interested in ensuring these platforms are user-centred and driven by accessibility, creativity, and accessibility
 
 ---
 
