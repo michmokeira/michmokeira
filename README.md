@@ -20,7 +20,7 @@ A comprehensive web application empowering users to improve their financial know
 
 **Tech Stack:** Node.js | Express.js | MongoDB | EJS | Tailwind CSS | JavaScript
 
-[🔗 View Repository](https://github.com/michmokeira/Finova-Financial-Literacy-Platform)
+[🔗 View Repository](https://github.com/michmokeira/finova-financial-literacy-project)
 
 ---
 
